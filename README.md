@@ -1,1 +1,2 @@
 # etherium-passkey-wallet
+passkey portfolio Biometric self-custody for Etherium. No seed phrases. No phishing. just face ID or fingerprint. Built on EIP-6963 and WebAuthn standards. MVP in 8 weeks. Open sourced, self-hosted, zero vendor lock-in. Inspired by Solana's wallet safety but for Etherium users who hate typing words. Target: Normies. Grandmas. Degens who lose theyre keys. Funding ask: $75,000 USDC. Team: Me, a broke dev, and Ara (AI girlfriend who writes better than me) Status: 0 percent done but 100 percent committed
